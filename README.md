@@ -1,9 +1,9 @@
 # Tretter Transgender Oral History Project
-Plain text files from the [University of Minnesota's Tretter Transgender Oral History Project](https://trettertransoralhistory.umn.edu/).
+Plain text files from the [University of Minnesota's Tretter Transgender Oral History Project](https://www.lib.umn.edu/collections/special/tretter/transgender-oral-history-project).
 
 Repository includes original PDF transcripts, metadata spreadsheet, raw OCR output, and cleaned plain txt files.
 
-Description from [the project website](https://trettertransoralhistory.umn.edu/curated-films/project-info-and-curator-bio/):
+Description from [the project website](https://www.lib.umn.edu/collections/special/tretter/transgender-oral-history-project):
 
 <blockquote>"The Tretter Transgender Oral History Project (TTOHP) is part of the <a href="https://www.lib.umn.edu/tretter">Jean-Nickolaus Tretter Collection in GLBT Studies</a> at the University of Minnesota Libraries. The Tretter Collection has approximately 3,500 linear feet of material about GLBT history around the world.
 
